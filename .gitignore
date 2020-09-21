@@ -1,0 +1,4 @@
+#ignore the following files
+
+.Ds_Store
+.hiddn.txt
